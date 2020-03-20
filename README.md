@@ -10,22 +10,25 @@ Click 'Home' on the navigation bar to view saved blog posts.
 
 Blog posts can be edited and deleted using the 'Read More' button below each post.
 
-#Starting the Project
+
+## Starting the blog
 
 1. Install Rails at the command prompt if you haven't yet:
 
- $ gem install rails
+        $ gem install rails
+
 2. At the command prompt, create a new Rails application:
 
- $ rails new myapp
- where "myapp" is the application name.
+        $ rails new myapp
 
-3. Change directory to myapp and start the web server:
+   where "myapp" is the application name.
 
- $ cd myapp
- $ bin/rails server
-Run with --help or -h for options.
+3. Change directory to `myapp` and start the web server:
 
-4. Go to http://localhost:3000 and the project will start.
+        $ cd myapp
+        $ bin/rails server
 
+   Run with `--help` or `-h` for options.
+
+4. Go to `http://localhost:3000`.
 
