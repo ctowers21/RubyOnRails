@@ -1,24 +1,10 @@
 # README
+This is a simple blog I created using Ruby on Rails. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The user has the ability to create and view blog posts. 
 
-Things you may want to cover:
+Click 'Create Post' on the navigation bar to create a new blog post.
 
-* Ruby version
+Click 'Home' on the navigation bar to view saved blog posts.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Blog posts can be edited and deleted using the 'Read More' button below each post.
